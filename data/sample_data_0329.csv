@@ -1,0 +1,501 @@
+id,age,workclass,education.num,marital.status,occupation,sex,hours.per.week,income,ml_pred
+7424,23,Private,5,Never-married,Inspection machine operator,Female,40,0,0
+3847,62,Government,4,Married,Craft-repair,Male,40,0,0
+8821,28,Private,13,Never-married,Executive manager,Female,45,0,0
+4459,26,Private,7,Married,Craft-repair,Male,40,0,0
+7859,34,Private,9,Married,Inspection machine operator,Male,40,0,0
+12630,41,Government,13,Prev-Married,Professional specialty,Male,65,0,0
+13026,27,Self-employed,5,Never-married,Craft-repair,Male,40,0,0
+30156,44,Private,3,Married,Inspection machine operator,Male,40,0,0
+24992,35,Private,10,Married,Craft-repair,Male,40,0,0
+13963,50,Private,9,Married,Inspection machine operator,Female,40,0,0
+19829,26,Self-employed,13,Married,Executive manager,Male,20,0,0
+6612,34,Private,10,Prev-Married,Administrative clerk,Female,30,0,0
+15387,17,Private,8,Never-married,Professional specialty,Male,7,0,0
+1468,54,Private,13,Prev-Married,Professional specialty,Male,40,0,0
+4992,19,Private,9,Never-married,Administrative clerk,Female,30,0,0
+7465,25,Self-employed,9,Married,Farming-fishing,Male,30,0,0
+18136,57,Private,10,Never-married,Protective service,Male,40,0,0
+27886,35,Government,10,Married,Craft-repair,Male,40,0,0
+20629,44,Private,3,Married,Handlers-cleaners,Male,40,0,0
+22083,36,Private,6,Married,Craft-repair,Male,70,0,0
+31567,25,Private,10,Never-married,Transport-moving,Male,55,0,0
+5754,29,Private,9,Married,Protective service,Male,40,0,0
+13441,23,Private,9,Never-married,Executive manager,Male,40,0,0
+12871,25,Private,9,Never-married,Handlers-cleaners,Female,40,0,0
+19325,32,Private,9,Married,Sales,Male,60,0,0
+13262,38,Private,9,Married,Protective service,Male,45,0,0
+13265,24,Private,10,Never-married,Inspection machine operator,Male,30,0,0
+7428,26,Private,9,Never-married,Craft-repair,Male,40,0,0
+31717,18,Private,6,Never-married,Inspection machine operator,Male,40,0,0
+28558,34,Private,9,Married,Craft-repair,Male,40,0,0
+29335,55,Private,10,Prev-Married,Tech-support,Female,40,0,0
+20719,20,Private,10,Never-married,Sales,Female,13,0,0
+12166,33,Self-employed,9,Married,Farming-fishing,Male,94,0,0
+18975,50,Private,10,Prev-Married,Administrative clerk,Female,40,0,0
+10999,24,Private,13,Never-married,Sales,Female,50,0,0
+22132,22,Private,10,Never-married,Protective service,Male,20,0,0
+15919,32,Private,9,Never-married,Craft-repair,Male,40,0,0
+26617,17,Private,6,Never-married,Sales,Female,20,0,0
+19716,24,Private,9,Never-married,Transport-moving,Male,40,0,0
+14011,35,Private,9,Married,Sales,Male,44,0,0
+10344,19,Private,11,Never-married,Administrative clerk,Female,40,0,0
+9436,28,Private,9,Never-married,Handlers-cleaners,Male,40,0,0
+4565,19,Private,10,Never-married,Administrative clerk,Female,16,0,0
+8331,29,Private,10,Never-married,Inspection machine operator,Male,45,0,0
+4170,62,Private,5,Never-married,Private house service,Female,22,0,0
+17943,30,Private,11,Never-married,Craft-repair,Male,40,0,0
+11612,39,Private,10,Prev-Married,Tech-support,Female,40,0,0
+21858,59,Government,6,Married,Farming-fishing,Male,40,0,0
+13326,25,Government,13,Never-married,Professional specialty,Female,35,0,0
+10866,20,Private,6,Never-married,Handlers-cleaners,Male,50,0,0
+6335,61,Private,5,Married,Inspection machine operator,Male,20,0,0
+26365,43,Private,9,Prev-Married,Administrative clerk,Female,40,0,0
+9923,37,Private,9,Married,Transport-moving,Male,40,0,0
+4074,46,Self-employed,10,Prev-Married,Executive manager,Female,60,0,0
+18999,42,Private,10,Prev-Married,Craft-repair,Male,38,0,0
+2994,39,Government,13,Prev-Married,Professional specialty,Female,60,0,0
+30770,25,Government,9,Never-married,Handlers-cleaners,Male,40,0,0
+19541,22,Private,10,Married,Tech-support,Male,40,0,0
+5019,37,Self-employed,9,Prev-Married,Handlers-cleaners,Male,10,0,0
+6718,71,Private,1,Prev-Married,Craft-repair,Male,10,0,0
+31292,28,Private,9,Married,Inspection machine operator,Male,40,0,0
+25249,46,Private,13,Prev-Married,Administrative clerk,Male,40,0,0
+5405,39,Private,10,Married,Craft-repair,Male,40,0,0
+26228,26,Private,10,Married,Craft-repair,Male,45,0,0
+24891,39,Private,11,Married,Craft-repair,Male,40,0,0
+19394,29,Self-employed,13,Never-married,Professional specialty,Male,40,0,0
+9900,20,Private,10,Never-married,Sales,Male,40,0,0
+29139,38,Private,10,Prev-Married,Administrative clerk,Female,43,0,0
+12096,32,Private,11,Never-married,Executive manager,Female,35,0,0
+32379,35,Private,10,Prev-Married,Administrative clerk,Female,55,0,0
+26142,20,Private,10,Never-married,Sales,Male,30,0,0
+6106,51,Private,5,Married,Transport-moving,Male,40,0,0
+28643,26,Private,9,Never-married,Craft-repair,Male,40,0,0
+12180,59,Self-employed,4,Married,Farming-fishing,Male,48,0,0
+14341,18,Private,9,Never-married,Administrative clerk,Male,40,0,0
+9671,27,Private,13,Never-married,Professional specialty,Male,50,0,0
+9214,60,Self-employed,4,Married,Craft-repair,Male,40,0,0
+8925,45,Private,9,Married,Farming-fishing,Male,40,0,0
+7346,73,Private,9,Married,Transport-moving,Male,16,0,0
+20398,42,Self-employed,9,Married,Sales,Male,60,0,0
+31880,31,Private,13,Never-married,Executive manager,Male,50,0,0
+6476,18,Private,6,Never-married,Handlers-cleaners,Male,27,0,0
+4800,38,Government,10,Prev-Married,Executive manager,Female,45,0,0
+7156,40,Private,11,Married,Craft-repair,Male,40,0,0
+14621,35,Private,9,Prev-Married,Craft-repair,Male,40,0,0
+26549,22,Private,8,Never-married,Handlers-cleaners,Male,40,0,0
+22173,43,Government,14,Prev-Married,Professional specialty,Female,37,0,0
+19493,40,Government,13,Prev-Married,Professional specialty,Male,40,0,0
+21546,46,Private,9,Prev-Married,Private house service,Female,25,0,0
+29365,39,Private,9,Never-married,Farming-fishing,Male,40,0,0
+15293,25,Private,13,Never-married,Professional specialty,Male,50,0,0
+23802,42,Self-employed,9,Married,Sales,Male,60,0,0
+22583,25,Private,9,Prev-Married,Craft-repair,Male,40,0,0
+9207,28,Private,9,Married,Inspection machine operator,Male,45,0,0
+8476,38,Private,10,Never-married,Administrative clerk,Female,40,0,0
+5857,62,Private,10,Prev-Married,Executive manager,Female,16,0,0
+9414,32,Private,9,Never-married,Inspection machine operator,Male,40,0,0
+19412,32,Private,9,Prev-Married,Craft-repair,Male,40,0,0
+23589,25,Private,10,Married,Craft-repair,Male,40,0,0
+5560,26,Government,9,Prev-Married,Administrative clerk,Female,30,0,0
+4302,31,Government,4,Married,Farming-fishing,Male,40,0,0
+6943,41,Private,9,Married,Sales,Male,40,0,0
+30961,47,Private,9,Married,Inspection machine operator,Male,40,0,0
+1042,34,Government,10,Married,Craft-repair,Male,40,0,0
+327,35,Private,13,Prev-Married,Sales,Female,65,0,0
+16381,50,Private,9,Married,Craft-repair,Male,15,0,0
+22007,35,Self-employed,9,Married,Craft-repair,Male,35,0,0
+21022,48,Private,14,Never-married,Executive manager,Male,40,0,0
+10539,35,Government,9,Never-married,Tech-support,Male,40,0,0
+25329,45,Private,14,Never-married,Professional specialty,Female,40,0,0
+15822,64,Private,2,Prev-Married,Private house service,Female,12,0,0
+20141,27,Private,10,Never-married,Administrative clerk,Female,15,0,0
+15666,46,Private,9,Married,Handlers-cleaners,Male,40,0,0
+6914,18,Private,10,Never-married,Sales,Female,20,0,0
+138,35,Private,9,Married,Craft-repair,Male,40,0,0
+17614,20,Private,10,Never-married,Professional specialty,Female,18,0,0
+31238,20,Private,14,Never-married,Executive manager,Male,25,0,0
+13308,44,Private,11,Prev-Married,Transport-moving,Male,40,0,0
+28364,47,Private,9,Prev-Married,Executive manager,Female,43,0,0
+8812,35,Self-employed,10,Married,Farming-fishing,Male,60,0,0
+15441,25,Government,13,Never-married,Professional specialty,Female,50,0,0
+21512,33,Private,10,Never-married,Executive manager,Male,40,0,0
+24182,45,Government,9,Prev-Married,Tech-support,Female,40,0,0
+24739,24,Private,13,Never-married,Executive manager,Male,45,0,0
+5068,32,Private,9,Prev-Married,Inspection machine operator,Female,38,0,0
+31299,35,Private,10,Never-married,Sales,Male,40,0,0
+17870,39,Government,10,Married,Administrative clerk,Male,50,0,0
+19749,58,Private,9,Married,Craft-repair,Male,40,0,0
+23487,28,Private,13,Never-married,Sales,Female,40,0,0
+22933,20,Private,10,Never-married,Tech-support,Female,10,0,0
+16248,28,Private,9,Married,Executive manager,Male,50,0,0
+17289,30,Private,10,Married,Transport-moving,Male,60,0,0
+17280,40,Self-employed,9,Married,Farming-fishing,Male,84,0,0
+29326,55,Self-employed,9,Married,Craft-repair,Male,60,0,0
+32253,45,Private,11,Prev-Married,Handlers-cleaners,Female,40,0,0
+20273,43,Private,9,Married,Transport-moving,Male,40,0,0
+30711,24,Private,9,Never-married,Inspection machine operator,Female,25,0,0
+22121,21,Private,10,Never-married,Protective service,Male,15,0,0
+27948,27,Government,9,Married,Protective service,Female,40,0,0
+29084,45,Private,11,Prev-Married,Executive manager,Female,44,0,0
+30928,20,Private,10,Never-married,Farming-fishing,Male,40,0,0
+13255,41,Self-employed,14,Prev-Married,Handlers-cleaners,Male,40,0,0
+8073,39,Private,9,Married,Executive manager,Male,40,0,0
+23988,19,Private,9,Never-married,Inspection machine operator,Male,43,0,0
+4326,42,Private,9,Married,Handlers-cleaners,Male,40,0,0
+12617,42,Private,10,Never-married,Sales,Male,45,0,0
+6864,53,Self-employed,10,Married,Farming-fishing,Male,30,0,0
+17948,39,Private,11,Married,Craft-repair,Male,40,0,0
+11996,24,Private,10,Never-married,Transport-moving,Male,40,0,0
+27319,47,Private,4,Married,Craft-repair,Male,40,0,0
+5960,28,Private,9,Never-married,Craft-repair,Male,70,0,0
+23447,41,Government,9,Prev-Married,Executive manager,Female,40,0,0
+26428,28,Private,12,Married,Executive manager,Female,40,0,0
+1321,31,Private,10,Married,Craft-repair,Male,40,0,0
+14494,46,Private,4,Married,Professional specialty,Female,45,0,0
+11399,76,Self-employed,10,Prev-Married,Sales,Male,8,0,0
+14612,54,Government,9,Prev-Married,Executive manager,Female,40,0,0
+30438,44,Private,10,Prev-Married,Administrative clerk,Female,57,0,0
+21335,21,Private,9,Never-married,Protective service,Male,40,0,0
+12115,34,Government,8,Never-married,Administrative clerk,Female,40,0,0
+7784,30,Self-employed,10,Married,Sales,Male,50,0,0
+23684,30,Private,12,Never-married,Inspection machine operator,Female,40,0,0
+14357,28,Private,9,Prev-Married,Administrative clerk,Male,40,0,0
+32276,45,Government,13,Prev-Married,Protective service,Male,40,0,0
+19836,62,Private,6,Married,Sales,Male,35,0,0
+28614,35,Private,12,Never-married,Administrative clerk,Female,35,0,0
+14636,76,Private,9,Prev-Married,Administrative clerk,Female,8,0,0
+1281,29,Government,11,Never-married,Tech-support,Female,64,0,0
+29429,33,Private,4,Married,Farming-fishing,Male,40,0,0
+24323,65,Private,13,Never-married,Executive manager,Male,40,0,0
+16588,24,Private,9,Never-married,Handlers-cleaners,Male,40,0,0
+28020,40,Private,10,Prev-Married,Craft-repair,Male,60,0,0
+10512,53,Private,9,Prev-Married,Inspection machine operator,Female,40,0,0
+24708,56,Private,3,Married,Craft-repair,Male,40,0,0
+5776,38,Private,10,Prev-Married,Administrative clerk,Female,40,0,0
+4608,45,Private,9,Prev-Married,Administrative clerk,Female,28,0,0
+8380,29,Private,11,Never-married,Administrative clerk,Female,40,0,0
+12203,26,Private,10,Never-married,Administrative clerk,Male,40,0,0
+20584,34,Private,9,Never-married,Private house service,Female,40,0,0
+14184,31,Private,10,Prev-Married,Administrative clerk,Female,38,0,0
+26138,55,Private,9,Prev-Married,Craft-repair,Male,48,1,0
+21578,34,Self-employed,11,Married,Executive manager,Male,60,1,0
+3215,45,Private,13,Prev-Married,Administrative clerk,Female,35,1,0
+1426,35,Government,9,Married,Craft-repair,Male,40,1,0
+1406,29,Government,10,Married,Protective service,Male,40,1,0
+15828,36,Private,12,Married,Administrative clerk,Male,40,1,0
+29630,48,Private,10,Never-married,Craft-repair,Female,38,1,0
+16790,28,Private,11,Married,Inspection machine operator,Male,40,1,0
+6733,47,Private,9,Married,Transport-moving,Male,48,1,0
+27259,27,Private,10,Married,Sales,Female,42,1,0
+30320,50,Private,9,Married,Professional specialty,Male,40,1,0
+4684,37,Government,10,Married,Tech-support,Male,45,1,0
+17201,79,Self-employed,9,Married,Executive manager,Male,40,1,0
+14593,27,Private,9,Married,Craft-repair,Male,40,1,0
+2218,25,Self-employed,13,Never-married,Executive manager,Male,35,1,0
+2366,31,Government,13,Never-married,Craft-repair,Male,40,1,0
+30146,28,Government,12,Married,Administrative clerk,Female,40,1,0
+1424,34,Private,10,Married,Executive manager,Female,40,1,0
+782,44,Self-employed,9,Married,Executive manager,Male,70,1,0
+2823,35,Government,9,Married,Protective service,Male,35,1,0
+23530,44,Government,9,Married,Protective service,Male,52,1,0
+9256,35,Private,9,Married,Craft-repair,Male,40,1,0
+3725,51,Self-employed,9,Married,Farming-fishing,Male,60,1,0
+25133,35,Private,13,Never-married,Executive manager,Female,50,1,0
+10782,43,Private,9,Married,Craft-repair,Male,40,1,0
+31445,54,Private,9,Married,Executive manager,Male,40,1,0
+1432,41,Private,9,Married,Executive manager,Male,40,1,0
+8468,33,Private,9,Married,Craft-repair,Male,40,1,0
+950,37,Self-employed,9,Married,Executive manager,Male,65,1,0
+7900,61,Private,9,Married,Executive manager,Male,50,1,0
+2351,31,Private,13,Never-married,Administrative clerk,Male,40,1,0
+8344,47,Private,4,Married,Craft-repair,Male,60,1,0
+1339,45,Private,11,Never-married,Professional specialty,Female,40,1,0
+16723,54,Private,9,Married,Inspection machine operator,Male,40,1,0
+3032,38,Private,7,Married,Craft-repair,Male,40,1,0
+27533,54,Private,9,Prev-Married,Transport-moving,Male,56,1,0
+24303,33,Government,12,Prev-Married,Executive manager,Male,50,1,0
+8472,43,Private,9,Married,Executive manager,Female,36,1,0
+7448,50,Private,9,Married,Administrative clerk,Female,40,1,0
+30579,47,Private,9,Married,Executive manager,Male,40,1,0
+6359,39,Self-employed,9,Married,Sales,Female,54,1,0
+16432,34,Private,10,Married,Craft-repair,Male,40,1,0
+27348,74,Self-employed,10,Married,Executive manager,Male,35,1,0
+11838,50,Government,13,Prev-Married,Professional specialty,Male,40,1,0
+22460,37,Private,9,Married,Craft-repair,Male,35,1,0
+28617,30,Private,9,Married,Handlers-cleaners,Male,40,1,0
+6673,57,Self-employed,10,Married,Sales,Male,60,1,0
+8915,35,Private,11,Prev-Married,Professional specialty,Female,40,1,0
+2263,44,Private,13,Never-married,Professional specialty,Male,40,1,0
+461,39,Private,10,Married,Executive manager,Male,62,1,0
+16213,39,Private,13,Never-married,Professional specialty,Male,40,1,0
+24864,56,Government,9,Married,Transport-moving,Male,40,1,0
+728,33,Private,9,Married,Tech-support,Female,40,1,0
+13664,35,Private,13,Prev-Married,Professional specialty,Female,40,1,0
+1349,28,Private,13,Never-married,Executive manager,Female,50,1,0
+31645,51,Self-employed,12,Married,Executive manager,Male,40,1,0
+23971,38,Private,9,Married,Administrative clerk,Female,40,1,0
+23765,31,Government,9,Married,Craft-repair,Male,70,1,0
+810,38,Self-employed,6,Married,Sales,Male,40,1,0
+3315,52,Private,9,Married,Inspection machine operator,Male,40,1,0
+39,54,Private,14,Prev-Married,Professional specialty,Female,40,1,0
+5742,53,Self-employed,9,Married,Executive manager,Male,45,1,0
+17410,33,Self-employed,16,Never-married,Professional specialty,Male,45,1,0
+30967,49,Private,9,Married,Craft-repair,Male,40,1,0
+2270,28,Private,13,Never-married,Administrative clerk,Male,60,1,0
+14528,35,Government,14,Never-married,Professional specialty,Male,60,1,0
+2203,41,Private,9,Prev-Married,Craft-repair,Male,44,1,0
+2194,51,Self-employed,9,Prev-Married,Executive manager,Male,40,1,0
+877,29,Private,11,Married,Inspection machine operator,Male,48,1,0
+2449,35,Private,9,Married,Executive manager,Male,50,1,0
+1944,46,Government,15,Married,Professional specialty,Male,50,1,1
+14574,38,Government,12,Married,Protective service,Male,56,1,1
+2580,42,Private,13,Married,Professional specialty,Male,40,1,1
+25770,33,Private,14,Married,Executive manager,Male,40,1,1
+17489,65,Self-employed,13,Married,Executive manager,Male,44,1,1
+20669,59,Self-employed,15,Married,Professional specialty,Male,55,1,1
+18973,39,Private,13,Married,Tech-support,Male,50,1,1
+5265,48,Private,10,Married,Craft-repair,Male,40,1,1
+3722,42,Private,10,Married,Craft-repair,Male,45,1,1
+6495,42,Private,12,Married,Craft-repair,Male,50,1,1
+1942,59,Private,13,Married,Craft-repair,Male,50,1,1
+12846,49,Private,10,Married,Craft-repair,Male,40,1,1
+1603,42,Self-employed,15,Married,Professional specialty,Male,50,1,1
+17383,43,Government,14,Married,Professional specialty,Male,40,1,1
+24644,51,Self-employed,15,Married,Professional specialty,Male,40,1,1
+23462,44,Private,10,Married,Executive manager,Male,40,1,1
+30750,46,Private,10,Married,Executive manager,Male,50,1,1
+23394,42,Private,13,Married,Executive manager,Male,50,1,1
+26406,41,Private,13,Married,Sales,Male,48,1,1
+31762,54,Government,14,Married,Professional specialty,Male,50,1,1
+2645,37,Private,13,Married,Professional specialty,Male,39,1,1
+30982,58,Private,10,Married,Executive manager,Male,40,1,1
+12400,50,Government,13,Married,Professional specialty,Male,45,1,1
+20564,48,Government,14,Married,Professional specialty,Male,40,1,1
+1698,58,Self-employed,15,Never-married,Professional specialty,Male,40,1,1
+30861,42,Private,13,Married,Sales,Male,40,1,1
+3352,40,Private,10,Married,Inspection machine operator,Male,50,1,1
+30752,47,Government,11,Married,Executive manager,Male,38,1,1
+9299,41,Private,14,Married,Professional specialty,Male,38,1,1
+8642,47,Government,14,Married,Executive manager,Male,47,1,1
+11349,44,Private,9,Married,Transport-moving,Male,65,1,1
+9970,45,Private,14,Married,Professional specialty,Male,55,1,1
+747,44,Private,14,Married,Professional specialty,Male,35,1,1
+26424,38,Government,16,Married,Professional specialty,Male,40,1,1
+1740,79,Private,16,Married,Professional specialty,Male,35,1,1
+2771,44,Private,13,Married,Craft-repair,Male,40,1,1
+25675,37,Government,13,Married,Tech-support,Male,45,1,1
+23867,45,Private,16,Married,Professional specialty,Male,50,1,1
+19137,54,Private,10,Married,Transport-moving,Male,45,1,1
+22092,29,Private,13,Married,Sales,Male,40,1,1
+1920,42,Self-employed,16,Married,Professional specialty,Male,40,1,1
+22758,47,Self-employed,13,Married,Sales,Male,40,1,1
+8538,34,Private,15,Married,Professional specialty,Male,50,1,1
+10121,42,Government,10,Married,Craft-repair,Male,40,1,1
+542,49,Government,14,Married,Professional specialty,Male,40,1,1
+9932,49,Private,9,Married,Transport-moving,Male,52,1,1
+16619,46,Government,10,Married,Craft-repair,Male,40,1,1
+6383,57,Private,13,Married,Sales,Male,40,1,1
+3071,43,Private,10,Married,Professional specialty,Male,40,1,1
+2488,47,Private,14,Married,Administrative clerk,Female,38,1,1
+2031,42,Self-employed,15,Married,Professional specialty,Male,65,1,1
+25524,54,Self-employed,13,Married,Sales,Male,50,1,1
+13240,33,Self-employed,3,Married,Craft-repair,Male,50,1,1
+776,36,Government,13,Married,Professional specialty,Male,40,1,1
+32095,36,Government,14,Married,Professional specialty,Male,50,1,1
+22690,47,Government,13,Married,Executive manager,Male,60,1,1
+25134,59,Private,13,Married,Craft-repair,Male,48,1,1
+382,42,Self-employed,13,Married,Executive manager,Male,70,1,1
+1612,52,Self-employed,13,Married,Administrative clerk,Female,30,1,1
+7237,34,Private,10,Married,Executive manager,Male,50,1,1
+10492,40,Private,10,Married,Craft-repair,Male,50,1,1
+6681,50,Private,10,Married,Sales,Male,45,1,1
+28238,51,Private,14,Married,Executive manager,Male,50,1,1
+10859,44,Private,14,Married,Executive manager,Male,35,1,1
+18112,54,Government,16,Never-married,Executive manager,Female,50,1,1
+13321,50,Self-employed,13,Married,Executive manager,Male,40,1,1
+2106,57,Private,13,Married,Executive manager,Male,60,1,1
+17657,46,Private,13,Married,Executive manager,Male,40,1,1
+12941,68,Private,13,Married,Professional specialty,Male,55,1,1
+85,44,Self-employed,13,Married,Executive manager,Male,50,1,1
+18200,53,Self-employed,10,Married,Sales,Male,50,1,1
+5143,53,Self-employed,13,Married,Sales,Male,40,1,1
+24552,33,Private,13,Married,Professional specialty,Male,40,1,1
+8784,51,Private,10,Married,Sales,Male,40,1,1
+25052,42,Private,13,Married,Craft-repair,Female,35,1,1
+427,54,Government,14,Married,Professional specialty,Male,40,1,1
+26076,40,Private,13,Married,Professional specialty,Male,60,1,1
+19881,60,Private,13,Married,Sales,Male,46,1,1
+2895,60,Government,10,Married,Administrative clerk,Male,40,1,1
+20013,45,Government,10,Married,Protective service,Male,40,1,1
+23367,41,Government,13,Married,Professional specialty,Male,35,1,1
+14314,41,Government,14,Married,Professional specialty,Female,40,1,1
+12591,37,Private,13,Married,Professional specialty,Male,40,1,1
+4387,44,Government,10,Married,Executive manager,Male,38,1,1
+25676,48,Government,16,Married,Professional specialty,Male,65,1,1
+17846,58,Private,14,Married,Professional specialty,Male,50,1,1
+25858,52,Private,13,Married,Professional specialty,Male,38,1,1
+2115,43,Government,14,Married,Professional specialty,Male,40,1,1
+21791,41,Private,12,Married,Tech-support,Male,45,1,1
+25473,60,Self-employed,15,Married,Sales,Male,45,1,1
+823,40,Government,16,Married,Professional specialty,Male,50,1,1
+4238,37,Private,10,Married,Executive manager,Male,80,1,1
+1618,49,Government,14,Married,Sales,Male,80,1,1
+27791,51,Private,10,Married,Executive manager,Female,10,1,1
+14448,54,Private,10,Married,Craft-repair,Male,40,1,1
+2766,50,Private,14,Married,Executive manager,Male,40,1,1
+2327,45,Private,13,Prev-Married,Sales,Male,48,1,1
+1560,30,Private,13,Married,Executive manager,Male,50,1,1
+16537,38,Government,13,Married,Executive manager,Male,40,1,1
+9754,44,Government,12,Married,Craft-repair,Male,40,1,1
+10680,55,Self-employed,14,Married,Professional specialty,Male,55,1,1
+31846,43,Private,11,Married,Sales,Male,40,1,1
+5841,63,Private,10,Married,Sales,Male,40,1,1
+14388,41,Self-employed,14,Married,Professional specialty,Male,40,1,1
+13097,43,Self-employed,16,Married,Professional specialty,Female,70,1,1
+869,33,Self-employed,15,Married,Professional specialty,Male,40,1,1
+683,35,Private,16,Married,Professional specialty,Male,40,1,1
+15366,40,Private,13,Married,Tech-support,Male,40,1,1
+24426,59,Private,10,Married,Tech-support,Male,50,1,1
+30753,46,Private,16,Married,Professional specialty,Male,60,1,1
+936,44,Private,12,Married,Craft-repair,Male,40,1,1
+541,36,Private,13,Married,Professional specialty,Male,50,1,1
+1669,50,Self-employed,15,Married,Professional specialty,Male,55,1,1
+2734,37,Self-employed,13,Married,Executive manager,Male,50,1,1
+10566,54,Government,14,Married,Professional specialty,Male,40,1,1
+2598,54,Government,14,Married,Professional specialty,Male,40,1,1
+16266,44,Government,15,Prev-Married,Professional specialty,Male,40,1,1
+9108,54,Self-employed,13,Married,Executive manager,Male,40,1,1
+1671,38,Private,14,Married,Executive manager,Male,70,1,1
+77,46,Private,14,Married,Sales,Male,65,1,1
+1879,55,Private,13,Married,Executive manager,Male,48,1,1
+31477,38,Government,15,Married,Professional specialty,Male,50,1,1
+8991,53,Government,14,Married,Administrative clerk,Male,40,1,1
+372,38,Private,14,Married,Executive manager,Male,60,1,1
+23028,53,Self-employed,16,Married,Professional specialty,Male,40,1,1
+807,55,Government,9,Married,Tech-support,Female,40,1,1
+3723,46,Private,10,Married,Craft-repair,Male,60,1,1
+3688,57,Private,13,Married,Professional specialty,Male,40,1,1
+18067,90,Private,13,Married,Executive manager,Female,40,1,1
+26921,47,Self-employed,13,Married,Executive manager,Male,50,1,1
+1760,76,Private,13,Married,Administrative clerk,Male,50,1,1
+4603,33,Private,14,Married,Professional specialty,Male,50,1,1
+22410,37,Government,13,Married,Administrative clerk,Male,40,1,1
+32164,48,Private,12,Married,Executive manager,Male,50,1,1
+14958,27,Private,13,Married,Executive manager,Female,45,1,1
+10012,35,Private,10,Married,Craft-repair,Male,50,1,1
+23892,34,Private,14,Married,Professional specialty,Female,40,1,1
+30805,47,Private,10,Married,Executive manager,Male,40,1,1
+4797,30,Government,13,Married,Tech-support,Male,40,1,1
+787,51,Government,10,Married,Sales,Male,40,1,1
+25349,37,Private,13,Married,Executive manager,Male,60,1,1
+107,54,Private,10,Married,Sales,Male,50,1,1
+22921,74,Self-employed,16,Married,Professional specialty,Male,25,1,1
+9919,28,Government,14,Married,Executive manager,Male,50,1,1
+20948,46,Private,10,Married,Administrative clerk,Female,40,1,1
+17454,43,Private,10,Married,Executive manager,Male,55,1,1
+2431,45,Government,14,Married,Professional specialty,Male,55,1,1
+17864,45,Private,13,Married,Craft-repair,Male,72,1,1
+11045,43,Private,10,Married,Sales,Male,43,1,1
+14244,42,Private,13,Married,Executive manager,Male,40,1,1
+1831,32,Private,13,Married,Professional specialty,Male,50,1,1
+1567,59,Private,15,Married,Professional specialty,Male,40,1,1
+20689,54,Government,11,Married,Protective service,Male,38,1,1
+15148,40,Private,11,Married,Executive manager,Male,50,1,1
+23958,37,Private,14,Married,Professional specialty,Male,50,1,1
+11295,34,Self-employed,9,Married,Transport-moving,Male,75,1,1
+17786,53,Self-employed,13,Married,Sales,Male,60,1,1
+24519,44,Private,15,Prev-Married,Professional specialty,Male,45,1,1
+1769,66,Government,15,Married,Executive manager,Male,55,1,1
+871,37,Private,13,Married,Executive manager,Male,47,1,1
+2531,41,Self-employed,13,Married,Executive manager,Male,40,1,1
+3698,57,Private,13,Married,Professional specialty,Male,50,1,1
+31547,54,Private,9,Married,Executive manager,Male,55,1,1
+10720,27,Government,13,Married,Protective service,Male,45,1,1
+22724,32,Government,13,Married,Professional specialty,Male,65,1,1
+27265,54,Private,10,Married,Sales,Male,40,1,1
+26694,53,Private,13,Married,Craft-repair,Male,44,1,1
+2233,66,Self-employed,13,Married,Executive manager,Male,40,1,1
+11047,42,Government,13,Married,Professional specialty,Female,50,1,1
+22988,41,Government,13,Married,Professional specialty,Male,38,1,1
+21982,55,Government,14,Married,Executive manager,Male,60,1,1
+4286,42,Private,16,Married,Professional specialty,Male,45,1,1
+2086,47,Private,13,Married,Executive manager,Male,50,1,1
+2239,67,Self-employed,16,Married,Professional specialty,Male,35,1,1
+7290,49,Government,16,Married,Executive manager,Male,50,1,1
+22166,90,Private,14,Married,Professional specialty,Female,40,1,1
+15510,49,Government,13,Married,Executive manager,Male,40,1,1
+23998,54,Private,14,Married,Professional specialty,Male,40,1,1
+13775,56,Government,16,Married,Professional specialty,Male,40,1,1
+24689,55,Government,16,Married,Professional specialty,Male,40,1,1
+30025,31,Private,15,Married,Tech-support,Male,40,0,1
+20254,39,Self-employed,13,Married,Sales,Male,40,0,1
+9498,42,Self-employed,13,Married,Executive manager,Male,70,0,1
+11162,47,Private,15,Prev-Married,Administrative clerk,Male,40,0,1
+4124,72,Private,13,Married,Sales,Male,6,0,1
+24476,50,Self-employed,13,Married,Craft-repair,Male,50,0,1
+23933,40,Self-employed,13,Married,Craft-repair,Male,50,0,1
+10748,30,Government,13,Married,Administrative clerk,Male,40,0,1
+25086,50,Private,12,Married,Craft-repair,Male,45,0,1
+31708,59,Private,14,Married,Tech-support,Male,40,0,1
+14005,50,Government,10,Married,Farming-fishing,Male,40,0,1
+15390,52,Private,12,Married,Executive manager,Male,40,0,1
+7622,50,Private,12,Married,Administrative clerk,Male,60,0,1
+29790,49,Government,11,Married,Craft-repair,Male,40,0,1
+22893,47,Government,13,Married,Executive manager,Female,40,0,1
+31747,41,Private,13,Married,Executive manager,Female,40,0,1
+8190,32,Government,14,Married,Professional specialty,Male,50,0,1
+15855,52,Private,13,Married,Executive manager,Female,42,0,1
+12698,78,Private,14,Prev-Married,Craft-repair,Male,40,0,1
+22428,42,Private,10,Married,Inspection machine operator,Male,40,0,1
+29833,52,Private,10,Married,Sales,Male,65,0,1
+19320,50,Private,9,Married,Sales,Male,80,0,1
+13312,59,Government,12,Married,Farming-fishing,Male,40,0,1
+13901,55,Self-employed,10,Married,Craft-repair,Male,50,0,1
+7468,35,Private,10,Married,Craft-repair,Male,50,0,1
+6653,53,Self-employed,10,Married,Farming-fishing,Male,50,0,1
+18449,53,Private,16,Prev-Married,Professional specialty,Male,50,0,1
+27949,66,Self-employed,10,Married,Farming-fishing,Male,7,0,1
+3419,50,Private,12,Married,Sales,Female,40,0,1
+26830,42,Private,12,Married,Executive manager,Female,31,0,1
+16680,45,Private,11,Married,Farming-fishing,Male,70,0,1
+22375,50,Private,10,Married,Sales,Male,40,0,1
+7221,35,Private,13,Married,Sales,Male,40,0,1
+17080,49,Government,9,Married,Protective service,Male,56,0,1
+25846,44,Government,13,Married,Executive manager,Male,52,0,1
+25058,57,Private,10,Married,Administrative clerk,Male,40,0,1
+18574,59,Private,16,Never-married,Professional specialty,Male,50,0,1
+30018,25,Government,13,Married,Professional specialty,Male,60,0,1
+17851,39,Private,15,Prev-Married,Executive manager,Male,50,0,1
+27601,42,Private,13,Married,Transport-moving,Male,60,0,1
+22011,54,Private,10,Married,Handlers-cleaners,Male,40,0,1
+14010,29,Private,13,Married,Tech-support,Male,40,0,1
+17486,36,Private,10,Married,Executive manager,Female,33,0,1
+3223,42,Private,14,Prev-Married,Professional specialty,Male,40,0,1
+18745,65,Private,10,Married,Protective service,Male,40,0,1
+21962,56,Private,13,Married,Craft-repair,Male,40,0,1
+5596,29,Private,13,Married,Sales,Male,50,0,1
+18252,48,Private,12,Married,Transport-moving,Male,44,0,1
+10091,34,Private,13,Married,Professional specialty,Male,65,0,1
+14529,40,Government,14,Married,Professional specialty,Male,40,0,1
+22676,35,Private,13,Married,Professional specialty,Male,50,0,1
+11547,45,Private,10,Married,Craft-repair,Male,40,0,1
+7618,72,Private,10,Married,Protective service,Male,40,0,1
+5242,88,Self-employed,15,Married,Professional specialty,Male,40,0,1
+32442,39,Government,13,Married,Administrative clerk,Female,40,0,1
+15818,33,Private,12,Married,Sales,Male,60,0,1
+18796,51,Self-employed,10,Married,Craft-repair,Male,55,0,1
+30259,50,Self-employed,10,Married,Executive manager,Female,30,0,1
+23412,34,Government,16,Married,Tech-support,Male,20,0,1
+21805,51,Government,9,Married,Administrative clerk,Female,40,0,1
+8559,42,Private,13,Married,Transport-moving,Male,40,0,1
+27089,60,Private,10,Married,Handlers-cleaners,Male,40,0,1
+23832,40,Self-employed,13,Married,Professional specialty,Male,60,0,1
+2939,50,Government,13,Married,Professional specialty,Male,40,0,1
+12994,56,Private,9,Married,Craft-repair,Male,60,0,1
+22826,62,Government,13,Married,Executive manager,Male,40,0,1
+18153,50,Private,13,Married,Craft-repair,Male,40,0,1
+26388,51,Private,10,Married,Executive manager,Male,45,0,1
+4105,44,Private,10,Married,Craft-repair,Female,45,0,1
+6236,40,Private,13,Married,Administrative clerk,Female,40,0,1
