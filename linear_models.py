@@ -1,4 +1,42 @@
+'''
+This is a unified interface/wrapper of general/generalized linear models from
+sklearn/statsmodels packages.
 
+Problems with sklearn:
+1. No Generalized linear models available.
+2. Does not estimate standard error of coefficients.
+3. Logistic regression does not handle 1 class case.
+4. For 2 class logistic regression, the 'ovr' result is not same as 'multinomial' result.
+
+Problems with statsmodels:
+1. No working version of multivariate OLS with sample weights.
+2. MNLogit does not support sample weights.
+
+Problem with both:
+1. No interface to calculate loglike_per_sample,
+   which is need to calculate emission probability in IOHMM.
+2. No json-serialization.
+
+
+In this implementations,
+we will mainly use statsmodels for
+1. Generalized linear models with simple response
+
+we will mainly use sklearn for
+1. Univariate/Multivariate Ordinary least square (OLS) models,
+2. Multinomial Logistic Regression with discrete output/probability outputs
+
+Note:
+1. If using customized arguments for constructor, you may encounter compalints
+   from the statsmodels/sklearn on imcompatible arguments.
+   This maybe especially true for the compatibility between solver and regularization method.
+
+2. For the GLM, statsmodels is not great when fitting with regularizations
+   (espicially l1, and elstic_net). In this case the coefficients might be np.nan.
+   Try not using regularizations if you select GLM until statsmodels is stable on this.
+'''
+
+# //TODO in future add arguments compatibility check
 
 from __future__ import division
 
@@ -25,6 +63,11 @@ EPS = np.finfo(float).eps
 
 
 class BaseModel(object):
+    """
+    A generic supervised model for data with input and output.
+    BaseModel does nothing, but lays out the methods expected of any subclass.
+    """
+
     def __init__(self,
                  solver,
                  fit_intercept=True,
@@ -36,7 +79,23 @@ class BaseModel(object):
                  l1_ratio=0,
                  coef=None,
                  stderr=None):
-       
+        """
+        Constructor
+        Parameters
+        ----------
+        solver: specific solver for each linear model
+        fit_intercept: boolean indicating fit intercept or not
+        est_stderr: boolean indicating calculte std.err of coefficients (usually expensive) or not
+        tol: tolerence of fitting error
+        max_iter: maximum iteraration of fitting
+        reg_method: method to regularize the model, one of (None, l1, l2, elstic_net).
+                    Need to be compatible with the solver.
+        alpha: regularization strength
+        l1_ratio: if elastic_net, the l1 alpha ratio
+        coef: the coefficients if loading from trained model
+        stderr: the std.err of coefficients if loading from trained model
+        -------
+        """
         self.solver = solver
         self.fit_intercept = fit_intercept
         self.est_stderr = est_stderr
@@ -49,11 +108,22 @@ class BaseModel(object):
         self.stderr = stderr
 
     def fit(self, X, Y, sample_weight=None):
-       
+        """
+        Fit the weighted model
+        Parameters
+        ----------
+        X : design matrix of shape (n_samples, n_features), 2d
+        Y : observed response matrix of shape
+            (n_samples, ) or (n_samples, k) based on specific model
+        sample_weight: sample weight vector of shape (n_samples, ), or float, or None
+        """
         raise NotImplementedError
 
     def _raise_error_if_model_not_trained(self):
-       
+        """
+        Raise error if the model is not trained (thus has coef)
+        ----------
+        """
         if self.coef is None:
             raise ValueError('Model is not trained.')
 
